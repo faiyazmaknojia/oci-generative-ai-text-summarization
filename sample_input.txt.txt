@@ -1,1 +1,3 @@
-Oracle AI helps enterprises build scalable and secure AI solutions.
+Oracle Cloud Infrastructure provides scalable and secure cloud services.
+OCI Generative AI enables enterprises to integrate AI capabilities quickly.
+This project demonstrates basic text summarization using Oracle AI concepts.
